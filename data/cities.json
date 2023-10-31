@@ -1,0 +1,89 @@
+{
+  "cities": [
+    {
+      "cityName": "Ikeja",
+      "state": "Lagos",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-08-13T12:30:00.000Z",
+      "notes": "Vibrant city with rich culture. ",
+      "position": {
+        "lat": 6.605874,
+        "lng": 3.349149
+      },
+      "id": 12345678
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Hankasalmi",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "notes": "",
+      "date": "2023-08-14T15:38:55.217Z",
+      "position": {
+        "lat": "62.2679226294176",
+        "lng": "26.367187500000004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Salaga",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "notes": "nice ",
+      "date": "2023-08-22T17:09:42.452Z",
+      "position": {
+        "lat": "8.450638800331001",
+        "lng": "-1.1865234375000002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Alboran Sea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "ssss",
+      "date": "2023-10-31T08:08:36.824Z",
+      "position": {
+        "lat": "36.56260003738548",
+        "lng": "-3.3398437500000004"
+      },
+      "id": 98443201
+    }
+  ]
+}
